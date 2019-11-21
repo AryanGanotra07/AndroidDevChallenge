@@ -155,7 +155,7 @@ Make the app usable by the user without much user interactions. ( Deep linking w
 
   
 
- 1.  **Testing, Model training and app optimization phase.(18th April, 2020)**
+ 3.  **Testing, Model training and app optimization phase.(18th April, 2020)**
     
 
  
