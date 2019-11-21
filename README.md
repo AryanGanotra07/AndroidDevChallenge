@@ -1,2 +1,0 @@
-# AndroidDevChallenge
-#AndroidDevChallenge
