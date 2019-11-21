@@ -1,6 +1,8 @@
 #AndroidDevChallenge
 #AndroidDevChallenge
 
+Cover letter included in the repository named “AndroidDevChallenge.pdf”
+
 The idea is to help visually impaired people to listen to what is in front of them or what they can’t see. Instead of the stick they carry to guess where any object is,
 holding an android app with camera access to detect objects in front of them and describe the object through a voice. Using machine learning’s various aspects like real time object detection technique, pose estimation, text recognition, landmark recognition, I want to create an android app that would detect the surroundings of the visually impaired person and describe them through voice output - text to speech engine. 
 
